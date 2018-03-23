@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e6a0da0-6945-483a-83af-fbd21a5d4462" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/美团面试.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MarkDown语法.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/美团面试题.md" afterPath="$PROJECT_DIR$/美团面试题.md" />
     </list>
@@ -31,12 +31,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="美团面试题.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="美团面试题.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/美团面试题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-55">
-                <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarkDown语法.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MarkDown语法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-758">
+                <caret line="446" column="11" lean-forward="true" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -130,6 +145,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/美团面试题.md" />
+        <option value="$PROJECT_DIR$/MarkDown语法.md" />
       </list>
     </option>
   </component>
@@ -140,7 +156,7 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -272,7 +288,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521770407859" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521772281192" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -320,7 +336,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521770407859" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521772281192" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -600,8 +616,21 @@
     <entry file="file://$PROJECT_DIR$/美团面试题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-55">
-            <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarkDown语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-758">
+            <caret line="446" column="11" lean-forward="true" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor>
